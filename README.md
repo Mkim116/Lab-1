@@ -1,2 +1,2 @@
 # lab1
-Lab 1 Repository t
+Lab 1 Repository testing
